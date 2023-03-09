@@ -1,7 +1,8 @@
 ### Have a good time!
 <div id="stat" align="center">
-<img src="https://media.giphy.com/media/fCTaMi2bSMf9cExRcG/giphy.gif"/>
-
+<p>
+  <img src="https://media.giphy.com/media/fCTaMi2bSMf9cExRcG/giphy.gif" width="150" height="50"/>
+</p?
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedFoxAT&theme=nord_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RedFoxAT&theme=nord_dark"/>   
   &nbsp &nbsp <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RedFoxAT&theme=nord_dark&utcOffset=3"/>
