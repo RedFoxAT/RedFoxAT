@@ -1,6 +1,6 @@
 ### Have a good time!
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedFoxAT&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedFoxAT&theme=nord_bright"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RedFoxAT&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RedFoxAT&theme=github_dark&utcOffset=3"/>
 </div>
