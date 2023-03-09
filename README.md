@@ -1,7 +1,7 @@
 ### Have a good time!
 <div id="stat" align="center">
 <p>
-  <img src="https://media.giphy.com/media/fCTaMi2bSMf9cExRcG/giphy.gif" width="150" height="50"/>
+  <img src="https://media.giphy.com/media/fCTaMi2bSMf9cExRcG/giphy.gif" width="550" height="250"/>
 </p?
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedFoxAT&theme=nord_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RedFoxAT&theme=nord_dark"/>   
