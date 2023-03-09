@@ -1,5 +1,5 @@
 ### Have a good time!
-<img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif"/>
+<img src="https://media.giphy.com/media/fCTaMi2bSMf9cExRcG/giphy.gif"/>
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedFoxAT&theme=nord_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RedFoxAT&theme=nord_dark"/>   
