@@ -1,5 +1,5 @@
 ### Have a good time!
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedFoxAT&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RedFoxAT&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RedFoxAT&theme=default&utcOffset=8)
 
