@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFoxAT)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" />
+
 
 <!--
 **RedFoxAT/RedFoxAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
