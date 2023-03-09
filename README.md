@@ -1,7 +1,7 @@
 ### Have a good time!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFoxAT)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RedFoxAT&theme=default&utcOffset=8)
 
 
 <!--
