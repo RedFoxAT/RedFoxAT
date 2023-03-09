@@ -5,8 +5,8 @@
 </p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedFoxAT&theme=nord_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RedFoxAT&theme=nord_dark"/>   
-  &nbsp &nbsp <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RedFoxAT&theme=nord_dark&utcOffset=3"/>
-  <img src="https://gpvc.arturio.dev/[RedFoxAT]"/>
+  &nbsp &nbsp <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RedFoxAT&theme=nord_dark&utcOffset=3"/> <br>
+  <img src="https://gpvc.arturio.dev/RedFoxAT"/>
 </div>
 
 <!--
