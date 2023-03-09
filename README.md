@@ -1,5 +1,5 @@
 <div id="stat" align="center">
-  ## Have a good time!
+  <h2> Have a good time! </h2>
 <p>
   <img src="https://media.giphy.com/media/fCTaMi2bSMf9cExRcG/giphy.gif" width="700" height="200"/>
 </p>
